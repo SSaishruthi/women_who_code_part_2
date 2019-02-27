@@ -1,44 +1,53 @@
 # women_who_code_part_2
 
-## Process
+## Getting Started
 
 1. Sign-up in IBM cloud using the link posted on meetup. https://ibm.biz/Bd2XTr
 2. Add `Machine Learning` service.
 
-  2.1 Click on `Add more resources`
-      
-![](images/1.png)
-   
-  2.2 In `AI`, select `Machine Learning`
+    * Click on `Create` in the Resource Summary panel
+    * In `AI`, select `Machine Learning`.
+          
+    ![](images/1.png)
+    
+    ![](images/2.png)
 
-![](images/2.png)
+3. Create ML instance
+    * Specify the `Service Name` and the `Region`
+    * Scroll down to Pricing Plans and make sure to select the `Lite plan`.
+    * Click `Create`
+    * Click on `Access in Watson Studio`
+    * Wait for the platform to load, and click `Get Started` to continue
+    
+    ![](images/3.png)
+    
+    ![](images/4.png)
 
-3. Create ML instance and click on `Get Started` in Watson Studio window.
+4. Create the Project
+    * Click on `Create Project`.
+    * Choose `Data Science` and provide project details. Press `Create` to continue.
+    
+    ![](images/5.png)
+    
+    ![](images/6.png)
+    
+    ![](images/7.png)
 
-![](images/3.png)
+5. Add the Notebook to the Project
+    * From the blue `Add to Project` menu, select `Notebook`.
+    * The Python version can be set to the default of Python3.5.
+    
+    * Under New Notebook, select `From URL`, and provide the following URL and click `Create Notebook`:
+    
+       _URL_ : https://github.com/SSaishruthi/women_who_code_part_2/raw/master/Iris_Classifier_Workshop.ipynb
+    
+    ![](images/8.png)
+    
+    ![](images/9.png)
 
-![](images/4.png)
+6. Ready!
 
-4. Click on `Create Project`
-
-![](images/5.png)
-
-5. Choose `Data Science` and provide project details.
-
-![](images/6.png)
-
-![](images/7.png)
-
-6. Select `Notebook` from `Add to Project`.
-
-![](images/8.png)
-
-7. Select `From URL` , provide below URL and `Create Notebook`.
-
-   _URL_ : https://github.com/SSaishruthi/women_who_code_part_2/raw/master/Iris_Classifier_Workshop.ipynb
-
-![](images/9.png)
-
+## Resources
 
 Scikit-learn cheatsheet:
 
