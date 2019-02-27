@@ -5,7 +5,7 @@
 1. Sign-up in IBM cloud using the link posted on meetup. https://ibm.biz/Bd2XTr
 2. Add `Machine Learning` service.
 
-[](images/1.png)
+(images/1.png)
 
 Scikit-learn cheatsheet:
 
