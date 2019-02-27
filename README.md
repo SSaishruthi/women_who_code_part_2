@@ -53,7 +53,7 @@ Scikit-learn cheatsheet:
 
 Source: https://medium.com/@chris_bour/an-extended-version-of-the-scikit-learn-cheat-sheet-5f46efc6cbb
 
-[](images/sk.jpeg)
+![](images/sk.jpeg)
 
 Reference Links:
 
